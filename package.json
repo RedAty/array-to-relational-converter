@@ -1,0 +1,17 @@
+{
+  "name": "array-to-relational-converter",
+  "version": "1.0.0",
+  "description": "This code can create Relational data (nodes,links) for graphs made by D3 js and others from Array of Objects.",
+  "main": "index.js",
+  "bin": "index.js",
+  "scripts": {
+    "lint": "eslint",
+    "Run Example": "node example.js"
+  },
+  "keywords": ["d3","force","data","relational","from","array","convert"],
+  "author": "Attila Reterics",
+  "license": "GPL",
+  "devDependencies": {
+    "eslint": "^6.6.0"
+  }
+}
